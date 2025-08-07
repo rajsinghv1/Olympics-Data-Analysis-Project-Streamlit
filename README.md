@@ -64,7 +64,7 @@ The Olympic Games have a rich history and are one of the most celebrated sportin
 ```bash
 pip install streamlit pandas plotly seaborn
 streamlit run app.py
-
-📊 Data Visualization Libraries
+---
+# 📊 Data Visualization Libraries
 - Plotly: For interactive line and scatter plots
 - Seaborn: For statistical visualizations like heatmaps
