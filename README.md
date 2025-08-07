@@ -107,4 +107,4 @@ olympics-analysis/
 
 ## 🙌 Acknowledgements
 
-This project uses open datasets from Kaggle Olympic History Data and is inspired by various public analysis and visualization notebooks.
+This project uses open datasets from [Kaggle Olympic History Data](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) and is inspired by various public analysis and visualization notebooks.
