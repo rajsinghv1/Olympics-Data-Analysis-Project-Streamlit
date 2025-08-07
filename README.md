@@ -15,9 +15,8 @@ The Olympic Games have a rich history and are one of the most celebrated sportin
 ---
 
 ## 📂 Datasets Used
-
 - **Athlete Events Dataset:** Information on athletes, their events, and results from past Olympic Games.  
-- **NOC Regions Dataset:** Maps National Olympic Committees (NOCs) to their respective countries/regions.  
+- **NOC Regions Dataset:** Maps National Olympic Committees (NOCs) to their respective countries/regions.
 
 ---
 
@@ -61,11 +60,10 @@ The Olympic Games have a rich history and are one of the most celebrated sportin
 - Instant exploration of Olympic data  
 
 ### Setup Instructions:
+```bash
 pip install streamlit pandas plotly seaborn
 streamlit run app.py
-
 ---
-
 # 📊 Data Visualization Libraries
 - Plotly: For interactive line and scatter plots
 - Seaborn: For statistical visualizations like heatmaps
